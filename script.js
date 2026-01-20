@@ -4,10 +4,10 @@ const input1 = Number(prompt("Enter any number"));
 const input2 = Number(prompt("Enter any number"));
 
 if(input1 === input2){
-	alert("True");
+	alert("true");
 }
 else{
-	alert("False");
+	alert("false");
 }
 }
 compareNumbers();
