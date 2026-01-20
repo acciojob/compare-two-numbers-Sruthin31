@@ -3,11 +3,5 @@ function compareNumbers(){
 const input1 = Number(prompt("Enter any number"));
 const input2 = Number(prompt("Enter any number"));
 
-if(input1 === input2){
-	alert("true");
-}
-else{
-	alert("false");
-}
-}
+ alert(input1 === input2);
 compareNumbers();
